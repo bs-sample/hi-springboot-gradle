@@ -4,9 +4,9 @@ springboot gradle demo
 
 
 ## version
-- JDK 11
+- openJDK 11
 - gradle 6.9.4
-- springboot 2.7.16
+- spring boot 2.7.17
 
 
 
