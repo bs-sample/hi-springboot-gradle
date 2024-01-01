@@ -16,5 +16,5 @@ springboot gradle demo
 
 - open JDK 21 https://adoptium.net/temurin/archive/
 - gradle 8.5 https://gradle.org/releases/
-- spring boot 3.2.0 https://spring.io/projects/spring-boot
+- spring boot 3.2.1 https://spring.io/projects/spring-boot
 
