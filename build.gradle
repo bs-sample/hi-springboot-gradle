@@ -1,9 +1,9 @@
 plugins {
     id 'java'
     // https://spring.io/projects/spring-boot
-    id 'org.springframework.boot' version '3.1.9'
+    id 'org.springframework.boot' version '3.1.12'
     // https://github.com/spring-gradle-plugins/dependency-management-plugin
-    id 'io.spring.dependency-management' version '1.1.4'
+    id 'io.spring.dependency-management' version '1.1.6'
 }
 
 group = 'net.hifor.demo'
