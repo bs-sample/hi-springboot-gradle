@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'net.hifor.demo'
-version = '0.0.1-SNAPSHOT'
+version = '8-6.8-2.7-20240829'
 
 java {
     sourceCompatibility = JavaVersion.VERSION_1_8
