@@ -1,6 +1,8 @@
 # hi-springboot-gradle
 
-springboot gradle demo
+spring boot gradle demo
+
+本项目是一个基于Spring Boot框架和Gradle构建工具的Java Web应用程序示例。项目中不同的分支展示了不同的JDK、Gradle和Spring Boot版本依赖关系，旨在帮助开发者更好地理解和管理版本兼容性。
 
 ## branch
 
