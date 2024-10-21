@@ -28,3 +28,64 @@ https://docs.spring.io/spring-boot/system-requirements.html
 - gradle 8.10.2 https://gradle.org/releases/
 - spring boot 3.3.4 https://spring.io/projects/spring-boot
 
+
+
+## Run
+
+### 下载
+
+- 手动下载zip
+
+![image-20241021092045958](assets/README/image-20241021092045958.png)
+
+
+
+- git命令下载
+
+  ```sh
+  # 进入要存放项目的目录
+  cd e:\demo
+  # 使用git拉取
+  git clone git@gitee.com:hi-sample/hi-springboot-gradle.git
+  ```
+
+  
+
+### 打开项目
+
+使用IEDA打开项目
+
+![image-20241021092345754](assets/README/image-20241021092345754.png) 
+
+![image-20241021092435549](assets/README/image-20241021092435549.png) 
+
+
+
+### 配置项目
+
+配置JDK
+
+![image-20241021092541528](assets/README/image-20241021092541528.png) 
+
+选择项目对应的JDK版本
+
+![image-20241021092641189](assets/README/image-20241021092641189.png)
+
+
+
+配置Gradle
+
+![image-20241021092741780](assets/README/image-20241021092741780.png) 
+
+配置gradle使用的JDK与项目一致"Project SDK"
+
+![image-20241021092853960](assets/README/image-20241021092853960.png)
+
+
+
+### 运行
+
+等待依赖包自动下载完成后，点击右上角运行按钮运行项目
+
+![image-20241021093042140](assets/README/image-20241021093042140.png) 
+
